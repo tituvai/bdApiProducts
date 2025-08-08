@@ -1,0 +1,12 @@
+@import "tailwindcss";
+
+body{
+    background-color: #183153;
+     font-family: "Poppins", sans-serif;
+}
+
+@theme {
+  --font-nunito: "Nunito", sans-serif; 
+}
+
+ 

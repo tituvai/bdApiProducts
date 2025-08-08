@@ -1,0 +1,100 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title> 
+    <!-- Font Family Part Start  -->
+    
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Nunito:ital,wght@0,200..1000;1,200..1000&family=Poppins:ital,wght@0,100;0,200;0,300;0,400;0,500;0,600;0,700;0,800;0,900;1,100;1,200;1,300;1,400;1,500;1,600;1,700;1,800;1,900&display=swap" rel="stylesheet">
+    <link rel="stylesheet" href="src/all.min.css">
+    <link rel="stylesheet" href="src/output.css">
+
+    <!-- Font Family Part End -->
+     
+</head>
+<body>
+    <div class="">
+        <div class="max-w-[1170px] m-auto">
+            <!-- Header Part Start  -->
+
+             <div class="flex items-center justify-between py-5">
+                <div class="">
+                    <img class="w-[80px]" src="src/images/logo.png" alt="">
+                </div>
+                <div class="">
+                    <ul class="flex items-center gap-x-10">
+                        <li class="text-base text-white font-medium"><a href="#">Home</a></li>
+                        <li class="text-base text-white font-medium"><a href="#">Docs</a></li>
+                        <li class="text-base text-white font-medium"><a href="#">GitHub</a></li>
+                    </ul>
+                </div>
+             </div>   
+            <!-- Header Part End -->
+
+             <!-- Banner Part Start  -->
+
+             <div class="flex items-center justify-between py-30">
+                <div class="w-[50%]">
+                    <h2 class="text-3xl text-teal-400 font-medium">BD API Product</h2>
+                    <h3 class="text-lg text-white font-light py-3">Realistic E-Commerce Data. Instantly.</h3>
+                    <p class="text-sm text-stone-300 pr-40 leading-5">A free RESTful API for developers, ideal for prototyping, testing, or teaching.</p>
+                    <div class="mt-15">
+                        <a class="px-6 py-4 bg-teal-700 rounded text-white" href="#">view on GitHub</a>
+                    </div>
+                </div>
+                <div class="w-[50%]">
+                    <img src="src/images/banner.png" alt="banner.png">
+                </div>
+             </div>
+             <!-- Banner Part End -->
+              <!-- About Part Start  -->
+
+              <div class="py-20">
+                <div class="w-[600px] bg-black py-10 px-8 rounded">
+                    <h3 class="text-xl text-teal-400">Example Request</h3>
+                    <h4 class="text-base font-light text-white bg-stone-700 w-[480px] p-3 my-5">npm i axios</h4>
+                   <div class="w-[480px] py-5 px-4 bg-white">
+                    <span class="text-black text-base font-light leading-3 font-nunito">                    
+                    <h3 class="pb-2">useEffect (()=>{async function AllProduct (){</h3>
+                    let data = await axios.get('https://dummyjson.com/products');
+                    console.log(data.data)       
+                    }
+                    AllProduct()
+                    })
+                    </span>
+                   </div>
+                </div>
+              </div>
+              <!-- About Part End -->
+
+            <!-- fotter Part Start  -->
+
+             
+            <!-- fotter Part End -->
+        </div>
+        <div class="py-20 bg-black">
+            <div class="flex justify-between items-center max-w-[1170px] m-auto">
+                <div class="">
+                <p class="text-sm text-stone-400 font-medium">Copyright © 2025 Titu Sarkar. All Rights Reserved.</p>
+            </div>
+            <div class="flex items-center gap-x-6">
+                <div class="w-10 h-10 bg-stone-500 rounded-full flex items-center justify-center text-white hover:bg-green-400 transition-all duration-700">
+                    <i class="fa-brands fa-facebook-f text-xl"></i>
+                </div>
+                <div class="w-10 h-10 bg-stone-500 rounded-full flex items-center justify-center text-white hover:bg-green-400 transition-all duration-700">
+                    <i class="fa-brands fa-linkedin-in text-xl"></i>
+                </div>
+                <div class="w-10 h-10 bg-stone-500 rounded-full flex items-center justify-center text-white hover:bg-green-400 transition-all duration-700">
+                    <i class="fa-brands fa-github text-xl "></i>
+                </div>
+            </div>
+            </div>
+        </div>
+    </div>
+
+    <!-- <script src="fontawesome-free-7.0.0-web/js/all.min.js"></script> -->
+</body>
+</html>
