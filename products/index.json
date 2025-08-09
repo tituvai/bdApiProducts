@@ -9,224 +9,236 @@
             "discount_price": "$120.00",
             "description": "The Essence Mascara Lash Princess is a popular mascara known for its volumizing and lengthening effects.",
             "updat_at": "2025-08-10 time 11:40:30",
-            "created_at": "2025-08-10 time 11:40:30"
-            
+            "created_at": "2025-08-10 time 11:40:30",
+            "'image": "https://tituvai.github.io/bdApiProducts/src/images/camera.png"
         },
         {
             "id": "02",
-            "title": "Nullam arcu neque",
-            "badge":"10%",
+            "title": "morbi ultricies blandit",
+            "badge":"New",
             "category": "beauty",
-            "price": "$168.00",
-            "discount_price": "$120.00",
+            "price": "$68.00",
+            "discount_price": "$40.00",
             "description": "The Essence Mascara Lash Princess is a popular mascara known for its volumizing and lengthening effects.",
             "updat_at": "2025-08-10 time 11:40:30",
-            "created_at": "2025-08-10 time 11:40:30"
-            
+            "created_at": "2025-08-10 time 11:40:30",
+            "image": "https://tituvai.github.io/bdApiProducts/src/images/whcat.png"
         },
         {
             "id": "03",
-            "title": "Nullam arcu neque",
-            "badge":"10%",
+            "title": "morbi finibus tincidunt",
+            "badge":"New",
             "category": "beauty",
-            "price": "$168.00",
-            "discount_price": "$120.00",
+            "price": "$38.00",
+            "discount_price": "$30.00",
             "description": "The Essence Mascara Lash Princess is a popular mascara known for its volumizing and lengthening effects.",
             "updat_at": "2025-08-10 time 11:40:30",
-            "created_at": "2025-08-10 time 11:40:30"
-            
+            "created_at": "2025-08-10 time 11:40:30",
+            "image": "https://tituvai.github.io/bdApiProducts/src/images/tincidunt.png"
         },
         {
             "id": "04",
-            "title": "Nullam arcu neque",
+            "title": "Duis finibus ex et quis",
             "badge":"10%",
             "category": "beauty",
-            "price": "$168.00",
-            "discount_price": "$120.00",
+            "price": "$268.00",
+            "discount_price": "$240.00",
             "description": "The Essence Mascara Lash Princess is a popular mascara known for its volumizing and lengthening effects.",
             "updat_at": "2025-08-10 time 11:40:30",
-            "created_at": "2025-08-10 time 11:40:30"
-            
+            "created_at": "2025-08-10 time 11:40:30",
+            "image": "https://tituvai.github.io/bdApiProducts/src/images/laptop.png"
         },
         {
             "id": "05",
-            "title": "Nullam arcu neque",
-            "badge":"10%",
+            "title": "Etiam suscipit volutpat",
+            "badge":"20%",
             "category": "beauty",
-            "price": "$168.00",
-            "discount_price": "$120.00",
+            "price": "$86.00",
+            "discount_price": "$50.00",
             "description": "The Essence Mascara Lash Princess is a popular mascara known for its volumizing and lengthening effects.",
             "updat_at": "2025-08-10 time 11:40:30",
-            "created_at": "2025-08-10 time 11:40:30"
-            
+            "created_at": "2025-08-10 time 11:40:30",
+            "image": "https://tituvai.github.io/bdApiProducts/src/images/phoneTwo.png"
         },
         {
             "id": "06",
-            "title": "Nullam arcu neque",
+            "title": "Etiam tincidunt tellus",
             "badge":"10%",
             "category": "beauty",
-            "price": "$168.00",
-            "discount_price": "$120.00",
+            "price": "$178.00",
+            "discount_price": "$150.00",
             "description": "The Essence Mascara Lash Princess is a popular mascara known for its volumizing and lengthening effects.",
             "updat_at": "2025-08-10 time 11:40:30",
-            "created_at": "2025-08-10 time 11:40:30"
-            
+            "created_at": "2025-08-10 time 11:40:30",
+            "image": "https://tituvai.github.io/bdApiProducts/src/images/laptopOne.png"
         },
         {
             "id": "07",
-            "title": "Nullam arcu neque",
-            "badge":"10%",
+            "title": "vestibulum vel maximus",
+            "badge":"5%",
             "category": "beauty",
-            "price": "$168.00",
-            "discount_price": "$120.00",
+            "price": "$150.00",
+            "discount_price": "$140.00",
             "description": "The Essence Mascara Lash Princess is a popular mascara known for its volumizing and lengthening effects.",
             "updat_at": "2025-08-10 time 11:40:30",
-            "created_at": "2025-08-10 time 11:40:30"
-            
+            "created_at": "2025-08-10 time 11:40:30",
+            "image": "https://tituvai.github.io/bdApiProducts/src/images/cc-Camera.png"
         },
         {
             "id": "08",
-            "title": "Nullam arcu neque",
-            "badge":"10%",
+            "title": "Class aptent taciti",
+            "badge":"New",
             "category": "beauty",
-            "price": "$168.00",
-            "discount_price": "$120.00",
+            "price": "$155.00",
+            "discount_price": "$135.00",
             "description": "The Essence Mascara Lash Princess is a popular mascara known for its volumizing and lengthening effects.",
             "updat_at": "2025-08-10 time 11:40:30",
-            "created_at": "2025-08-10 time 11:40:30"
-            
+            "created_at": "2025-08-10 time 11:40:30",
+            "image": "https://tituvai.github.io/bdApiProducts/src/images/taciti.png"
         },
         {
             "id": "09",
-            "title": "Nullam arcu neque",
-            "badge":"10%",
+            "title": "Suspendisse volutpat ut",
+            "badge":"15%",
             "category": "beauty",
-            "price": "$168.00",
-            "discount_price": "$120.00",
+            "price": "$160.40",
+            "discount_price": "$130.00",
             "description": "The Essence Mascara Lash Princess is a popular mascara known for its volumizing and lengthening effects.",
             "updat_at": "2025-08-10 time 11:40:30",
-            "created_at": "2025-08-10 time 11:40:30"
-            
+            "created_at": "2025-08-10 time 11:40:30",
+            "image": "https://tituvai.github.io/bdApiProducts/src/images/laptopTwo.png"
         },
         {
             "id": "10",
-            "title": "Nullam arcu neque",
-            "badge":"10%",
+            "title": "Donec dui est sffictur",
+            "badge":"25%",
             "category": "beauty",
-            "price": "$168.00",
-            "discount_price": "$120.00",
+            "price": "$220.00",
+            "discount_price": "$180.00",
             "description": "The Essence Mascara Lash Princess is a popular mascara known for its volumizing and lengthening effects.",
             "updat_at": "2025-08-10 time 11:40:30",
-            "created_at": "2025-08-10 time 11:40:30"
-            
+            "created_at": "2025-08-10 time 11:40:30",
+            "image": "https://tituvai.github.io/bdApiProducts/src/images/tabletFour.png"
         },
         {
             "id": "11",
-            "title": "Nullam arcu neque",
-            "badge":"10%",
+            "title": "Vestibulum ante gravida",
+            "badge":"New",
             "category": "beauty",
-            "price": "$168.00",
-            "discount_price": "$120.00",
+            "price": "$368.00",
+            "discount_price": "$320.00",
             "description": "The Essence Mascara Lash Princess is a popular mascara known for its volumizing and lengthening effects.",
             "updat_at": "2025-08-10 time 11:40:30",
-            "created_at": "2025-08-10 time 11:40:30"
-            
+            "created_at": "2025-08-10 time 11:40:30",
+            "image": "https://tituvai.github.io/bdApiProducts/src/images/tablet.png"
         },
         {
             "id": "12",
-            "title": "Nullam arcu neque",
-            "badge":"10%",
+            "title": "Aenean nec ornare metus",
+            "badge":"30%",
             "category": "beauty",
-            "price": "$168.00",
-            "discount_price": "$120.00",
+            "price": "$190.00",
+            "discount_price": "$150.00",
             "description": "The Essence Mascara Lash Princess is a popular mascara known for its volumizing and lengthening effects.",
             "updat_at": "2025-08-10 time 11:40:30",
-            "created_at": "2025-08-10 time 11:40:30"
-            
+            "created_at": "2025-08-10 time 11:40:30",
+            "image": "https://tituvai.github.io/bdApiProducts/src/images/phoneTwo.png"
         },
         {
             "id": "13",
-            "title": "Nullam arcu neque",
-            "badge":"10%",
+            "title": "Suspe malesu porta",
+            "badge":"15%",
             "category": "beauty",
-            "price": "$168.00",
+            "price": "$135.00",
             "discount_price": "$120.00",
             "description": "The Essence Mascara Lash Princess is a popular mascara known for its volumizing and lengthening effects.",
             "updat_at": "2025-08-10 time 11:40:30",
-            "created_at": "2025-08-10 time 11:40:30"
-            
+            "created_at": "2025-08-10 time 11:40:30",
+            "image": "https://tituvai.github.io/bdApiProducts/src/images/wacthOne.png"
         },
         {
             "id": "14",
-            "title": "Nullam arcu neque",
-            "badge":"10%",
+            "title": "Aliqua erat volutpat",
+            "badge":"New",
             "category": "beauty",
-            "price": "$168.00",
-            "discount_price": "$120.00",
+            "price": "$138.00",
+            "discount_price": "$125.00",
             "description": "The Essence Mascara Lash Princess is a popular mascara known for its volumizing and lengthening effects.",
             "updat_at": "2025-08-10 time 11:40:30",
-            "created_at": "2025-08-10 time 11:40:30"
-            
+            "created_at": "2025-08-10 time 11:40:30",
+            "image": "https://tituvai.github.io/bdApiProducts/src/images/tabletThree.png"
         },
         {
             "id": "15",
-            "title": "Nullam arcu neque",
-            "badge":"10%",
+            "title": "Proin sed enim eleifend",
+            "badge":"20%",
             "category": "beauty",
-            "price": "$168.00",
-            "discount_price": "$120.00",
+            "price": "$68.00",
+            "discount_price": "$60.00",
             "description": "The Essence Mascara Lash Princess is a popular mascara known for its volumizing and lengthening effects.",
             "updat_at": "2025-08-10 time 11:40:30",
-            "created_at": "2025-08-10 time 11:40:30"
-            
+            "created_at": "2025-08-10 time 11:40:30",
+            "image": "https://tituvai.github.io/bdApiProducts/src/images/eleifend.png"
         },
         {
             "id": "16",
-            "title": "Nullam arcu neque",
-            "badge":"10%",
+            "title": "Iphone 14 pro max",
+            "badge":"35%",
             "category": "beauty",
-            "price": "$168.00",
-            "discount_price": "$120.00",
+            "price": "$368.00",
+            "discount_price": "$330.00",
             "description": "The Essence Mascara Lash Princess is a popular mascara known for its volumizing and lengthening effects.",
             "updat_at": "2025-08-10 time 11:40:30",
-            "created_at": "2025-08-10 time 11:40:30"
-            
+            "created_at": "2025-08-10 time 11:40:30",
+            "image": "https://tituvai.github.io/bdApiProducts/src/images/iphone-14.png"
         },
         {
             "id": "17",
-            "title": "Nullam arcu neque",
-            "badge":"10%",
+            "title": "Camera",
+            "badge":"New",
             "category": "beauty",
-            "price": "$168.00",
-            "discount_price": "$120.00",
+            "price": "$478.00",
+            "discount_price": "$460.00",
             "description": "The Essence Mascara Lash Princess is a popular mascara known for its volumizing and lengthening effects.",
             "updat_at": "2025-08-10 time 11:40:30",
-            "created_at": "2025-08-10 time 11:40:30"
-            
+            "created_at": "2025-08-10 time 11:40:30",
+            "image": "https://tituvai.github.io/bdApiProducts/src/images/cameraOne.png"
         },
         {
             "id": "18",
-            "title": "Nullam arcu neque",
+            "title": "samsung s24",
             "badge":"10%",
             "category": "beauty",
-            "price": "$168.00",
-            "discount_price": "$120.00",
+            "price": "$410.00",
+            "discount_price": "$400.00",
             "description": "The Essence Mascara Lash Princess is a popular mascara known for its volumizing and lengthening effects.",
             "updat_at": "2025-08-10 time 11:40:30",
-            "created_at": "2025-08-10 time 11:40:30"
-            
+            "created_at": "2025-08-10 time 11:40:30",
+            "image": "https://tituvai.github.io/bdApiProducts/src/images/samsung.png"
         },
         {
             "id": "19",
-            "title": "Nullam arcu neque",
-            "badge":"10%",
+            "title": "Aliqua erat volutpat",
+            "badge":"15%",
             "category": "beauty",
-            "price": "$168.00",
-            "discount_price": "$120.00",
+            "price": "$138.00",
+            "discount_price": "$130.00",
             "description": "The Essence Mascara Lash Princess is a popular mascara known for its volumizing and lengthening effects.",
             "updat_at": "2025-08-10 time 11:40:30",
-            "created_at": "2025-08-10 time 11:40:30"
-            
+            "created_at": "2025-08-10 time 11:40:30",
+            "image": "https://tituvai.github.io/bdApiProducts/src/images/phoneOne.png"
+        },
+         {
+            "id": "06",
+            "title": "Etiam tincidunt tellus",
+            "badge":"10%",
+            "category": "beauty",
+            "price": "$148.00",
+            "discount_price": "$130.00",
+            "description": "The Essence Mascara Lash Princess is a popular mascara known for its volumizing and lengthening effects.",
+            "updat_at": "2025-08-10 time 11:40:30",
+            "created_at": "2025-08-10 time 11:40:30",
+            "image": "https://tituvai.github.io/bdApiProducts/src/images/phoneOne.png"
         }
     ]
 }
